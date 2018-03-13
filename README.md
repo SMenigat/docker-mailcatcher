@@ -1,5 +1,5 @@
 # docker-mailcatcher
-Lightweight [Mailcatcher](https://mailcatcher.me/) Dockercontainer 🐋✉️
+Lightweight [Mailcatcher](https://mailcatcher.me/) Dockercontainer 🐋📨
 
 ### Running the container
 
